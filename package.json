@@ -1,0 +1,16 @@
+{
+  "name": "chaiandbackend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "anterpreet",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
